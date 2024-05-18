@@ -88,19 +88,6 @@ let result = Maybe::Just(5).map(|x| x * 2);
 result = Just 5 >>= \x -> return (x * 2)
 ```
 
-## Contributing
-
-Contributions are absolutely, positively welcome and encouraged! Contributions
-come in many forms. You could:
-
-  1. Submit a feature request or bug report as an [issue].
-  2. Ask for improved documentation as an [issue].
-  3. Comment on issues that require feedback.
-  4. Contribute code via [pull requests].
-
-[issue]: 
-[pull requests]: 
-
 ## License
 
 Mathelogos is licensed under Apache license version 2.0. See [LICENSE](LICENSE) file.
