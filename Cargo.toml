@@ -5,6 +5,7 @@ authors = ["ladroid"]
 description = """
 Library to make Rust as a functional programming language.
 """
+repository = "https://github.com/ladroid/Mathelogos"
 edition = "2021"
 license = "Apache-2.0"
 categories = ["no-std", "rust-patterns", "mathematics"]
